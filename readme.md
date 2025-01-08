@@ -1,4 +1,4 @@
-<div><img src="https://i.imgur.com/wLwTJoO.gif" ></div>
+![TinderGPT in action](https://i.imgur.com/wLwTJoO.gif)
 
 # TinderGPT 
 ### Your automatic dating assistant
