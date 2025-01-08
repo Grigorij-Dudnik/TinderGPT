@@ -1,3 +1,4 @@
+<div><img src="https://i.imgur.com/wLwTJoO.gif" ></div>
 # TinderGPT 
 ### Your automatic dating assistant
 TinderGPT automates the process of writing and arranging dates with girls on Tinder, enabling you to generate romantic meetings with almost zero effort. Your only role is to like the profiles that catch your eye. After that, TinderGPT comes into the play. It initiates a conversation with the girl, using details from her profile, continues by building an emotional bond and highlighting your attractive traits, and finishes by arranging a meeting and giving you a push-up on your phone with her number.
