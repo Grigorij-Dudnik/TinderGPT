@@ -1,4 +1,4 @@
-![TinderGPT in action](https://i.imgur.com/wLwTJoO.gif)
+![TinderGPT in action](https://i.imgur.com/NXn0A3Z.gif)
 
 # TinderGPT 
 ### Your automatic dating assistant
