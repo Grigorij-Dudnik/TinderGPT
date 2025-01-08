@@ -1,4 +1,4 @@
-<div align="center"><img src="/images/readme.gif" width="500" ></div>
+<div align="center"><img src="/images/readme.gif" width="650" ></div>
 
 # TinderGPT 
 ### Your automatic dating assistant
